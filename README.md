@@ -1,1 +1,1 @@
-# Pok-mon-Classifier-CNN
+# Pokemon-Classifier-CNN
