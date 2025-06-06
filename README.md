@@ -12,11 +12,6 @@ It uses transfer learning with a pre-trained CNN model and classifies Pokémon i
 - Supports uploading an image and predicts Pokémon with confidence score
 
 ---
+Usage :
+<img width="1440" alt="Screenshot 2025-06-07 at 1 12 33 AM" src="https://github.com/user-attachments/assets/5709bb47-5872-4089-9cae-83ecb8e36519" />
 
-## Setup & Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/pokemon-image-classifier.git
-   cd pokemon-image-classifier
-# Pokemon-Classifier-CNN
